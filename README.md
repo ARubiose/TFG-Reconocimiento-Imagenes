@@ -2,6 +2,9 @@
 
 Trabajo de fin de grado del grado de Ingeniería informática en la Universidad Rey Juan Carlos de Madrid.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />La memoria está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+
+
 ## Resumen
 El siguiente trabajo de fin de grado pretende explicar de manera sencilla, y sin necesidad de conocimientos previos, la teoría necesaria para entender cómo se realiza el reconocimiento de imágenes digitales y los algoritmos de optimización utilizados en su aplicación. 
 
@@ -29,5 +32,5 @@ Se concluye con un resumen de los objetivos conseguidos, observaciones obtenidas
  - Clasificador de imágenes de la base de datos CIFAR-10
     - Documento --> CIFAR-10Classifier.ipynb
     
-## License
+## Software License
 [MIT](https://github.com/ARubiose/TFG-Reconocimiento-Imagenes/blob/master/LICENSE)
